@@ -1,0 +1,4 @@
+.idea
+.DS_STORE
+.pytest_cache
+.venv
